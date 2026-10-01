@@ -1,0 +1,2 @@
+../Drivers/ui/screens/ui_Screen2.c:14:6:ui_Screen2_screen_init	1
+../Drivers/ui/screens/ui_Screen2.c:34:6:ui_Screen2_screen_destroy	2

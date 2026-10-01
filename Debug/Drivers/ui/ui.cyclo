@@ -1,0 +1,2 @@
+../Drivers/ui/ui.c:27:6:ui_init	1
+../Drivers/ui/ui.c:41:6:ui_destroy	1

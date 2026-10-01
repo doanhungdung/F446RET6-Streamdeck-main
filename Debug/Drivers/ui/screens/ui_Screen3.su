@@ -1,0 +1,2 @@
+../Drivers/ui/screens/ui_Screen3.c:15:6:ui_Screen3_screen_init	32	static
+../Drivers/ui/screens/ui_Screen3.c:49:6:ui_Screen3_screen_destroy	8	static
